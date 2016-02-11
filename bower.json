@@ -1,0 +1,29 @@
+{
+  "name": "mobileToast",
+  "authors": [
+    "Gaurav Butola <GauravButola@gmail.com>"
+  ],
+  "description": "Android like toast messages for mobile sites and Cordova/Phonegap based web projects",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "toast",
+    "cordova",
+    "ionic",
+    "android",
+    "javascript",
+    "phonegap"
+  ],
+  "license": "MIT",
+  "homepage": "http://butola.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
